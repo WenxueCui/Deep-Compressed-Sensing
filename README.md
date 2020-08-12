@@ -119,6 +119,10 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 * GANCS [[Code]](https://github.com/gongenhao/GANCS) [[PDF]](https://www.nature.com/articles/s41592-018-0233-6) [Tensorflow]
   * M. Mardani et al., "Compressed Sensing MRI based on Deep Generative Adversarial Network", arXiv:1706.00051, 2017.
 
+## Quantized Compressed Sensing Coding
+
+* DCPM [[PDF]](https://ieeexplore.ieee.org/document/6334009)
+  * Sungkwang Mun ; James E. Fowler: DPCM for quantized block-based compressed sensing of images, 2012.
 
 ## Other 
 * CSNN [[Code]](https://github.com/ayonar/csnn) [[DOI]](https://arxiv.org/abs/1904.10136) [Matlab][Tensorflow]
