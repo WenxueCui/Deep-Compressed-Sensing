@@ -15,7 +15,8 @@ Recent papers and codes related on the Iteration/Optimization/Deep Learning/Deep
   * J. Du, X. Xie, C. Wang, and G. Shi, "Perceptual Compressive Sensing," Chinese Conference on Pattern Recognition and Computer Vision (PRCV), pp. 268 - 279, 2018. 
 * ISTA-Net [[Code]](https://github.com/jianzhangcs/ISTA-Net) [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.pdf) [Tensorflow]
   * Z. Jian and G. Bernard, "ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing", IEEE International Conference on Computer Vision and Pattern Recognition, 2018. 
-
+* LapCSNet [[Code]](https://github.com/WenxueCui/LapCSNet)[[PDF]](https://arxiv.org/abs/1804.04970)
+  * Wenxue Cui, Heyao Xu, Xinwei Gao, Shengping Zhang, Feng Jiang, Debin Zhao: An efficient deep convolutional laplacian pyramid architecture for CS reconstruction at low sampling ratios, ICASSP 2018.
 * CSNet [[Code]](https://github.com/wzhshi/CSNet) [[Code-ReImp]](https://github.com/AtenaKid/CSNet) [[PDF]](https://arxiv.org/abs/1707.07119) [[DOI]](https://doi.org/10.1109/ICME.2017.8019428) [Matconvnet] [[Code-ReImp-Pytorch]](https://github.com/liujiawei2333/Compressed-sensing-CSNet)
   * W. Shi, F. Jaing, S. Zhang, and D. Zhao, "Deep networks for compressed image sensing", IEEE International Conference on Multimedia and Expo (ICME), 2017.   
 
@@ -117,6 +118,7 @@ Measurements," IEEE International Conference on Computer Vision and Pattern Reco
 
 * GANCS [[Code]](https://github.com/gongenhao/GANCS) [[PDF]](https://www.nature.com/articles/s41592-018-0233-6) [Tensorflow]
   * M. Mardani et al., "Compressed Sensing MRI based on Deep Generative Adversarial Network", arXiv:1706.00051, 2017.
+
 
 ## Other 
 * CSNN [[Code]](https://github.com/ayonar/csnn) [[DOI]](https://arxiv.org/abs/1904.10136) [Matlab][Tensorflow]
